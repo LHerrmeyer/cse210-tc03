@@ -2,3 +2,5 @@
 Logan Herrmeyer: Major Data Science
 
 Christian Soldevilla: Major Web Design & Development
+
+Evaristo Rivera: Major Applied Technology
